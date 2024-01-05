@@ -55,7 +55,7 @@ Advanced Resources: For proficient users, the AI provides access to more advance
 
 ## Technical Overview: OpenDoor AI - Bridging Web2 to Web3 with Oraichain
 
-#### Introduction:
+#### Technical Introduction:
 "OpenDoor AI" serves as a pioneering bridge between Web2 and Web3, harnessing the capabilities of Oraichain's blockchain infrastructure. The project's core objective is to facilitate a seamless transition for Web2 users into the Web3 ecosystem using AI-guided assistance and Oraichain's advanced functionalities.
 
 - Multi-Chain Environment: Oraichain's robust infrastructure comprises a multi-chain environment, offering scalability and diverse functionalities tailored for specific use cases. This setup allows for the integration of AI capabilities and ensures secure cross-chain interactions.
@@ -80,7 +80,7 @@ Advanced Resources: For proficient users, the AI provides access to more advance
 - Functional AI-Smart Contract Interaction: Showcasing reliable and verifiable interactions between AI models and smart contracts on Oraichain, emphasizing trustworthiness in AI-driven blockchain interactions.
 - Scalability and Integration: Focusing on scalability and future integrations within Oraichain's expanding ecosystem, encouraging sustained development post-hackathon.
 
-#### Conclusion:
+#### Technical Conclusion:
 OpenDoor AI's development revolves around leveraging Oraichain's robust blockchain framework and AI integration to create a transformative interface. Its goal is to facilitate a smooth and guided transition for Web2 users, introducing them to the complexities of the Web3 paradigm with confidence and ease.
 
 
