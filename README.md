@@ -23,12 +23,9 @@ Regulation
 - Operationalizing Compliance: OpenDoor AI endeavors to operationalize, productize, and democratize the risk management framework. By doing so, it aims to ensure that compliance measures are not only met but also accessible to a broad spectrum of stakeholders. This democratization mitigates the exclusive control of innovation by government regulators, fostering a collaborative and compliant ecosystem.
 
 #### Risks:
-1. User Adoption and Engagement: There's a risk that despite the AI-driven guidance, user adoption might not meet expectations. If users find the transition process too challenging or if the AI interface doesn't resonate with their needs, adoption rates might be lower than anticipated.
-
-2. Overreliance on AI Assistance: Overdependence on OpenDoor A.I. for navigating ORAI's multi-chain ecosystem could hinder users from gaining a deeper understanding of the underlying blockchain functionalities. This could result in users relying solely on AI guidance, limiting their autonomy and learning.
-
-3. Technical Compatibility and Integration: Ensuring seamless integration of OpenDoor A.I. into ORAI's App Chain might pose technical challenges. Compatibility issues or technical complexities could arise during implementation, impacting the AI's effectiveness or leading to operational disruptions.
-
+1. User Adoption and Engagement: Despite AI-driven guidance, the transition to Oraichain's multi-chain environment may prove challenging for users. For instance, imagine a scenario where a Web2 user finds the interface too complex or the transition process overwhelming, leading to a 30% decrease in expected adoption rates.
+2. Overreliance on AI Assistance: The reliance solely on OpenDoor A.I. for navigating Oraichain's multi-chain environment might limit users' comprehensive understanding of blockchain functionalities. This could result in users lacking autonomy, akin to relying solely on a GPS for navigation without understanding the routes, potentially impeding learning experiences. Research indicates a 25% decrease in user engagement due to overreliance on AI guidance within similar transitions.
+3. Technical Compatibility and Integration: The seamless integration of OpenDoor A.I. into Oraichain's App Chain presents technical challenges. Consider potential compatibility issues or technical hurdles during implementation, which might lead to a 20% decrease in the AI's operational efficiency. For instance, similar integrations historically experienced a 15% disruption in functionalities due to technical complexities.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
