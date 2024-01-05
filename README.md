@@ -72,7 +72,7 @@ Advanced Resources: For proficient users, the AI provides access to more advance
 - Scalability and Integration: Focusing on scalability and future integrations within Oraichain's expanding ecosystem, encouraging sustained development post-hackathon.
 
 #### Conclusion:
-- OpenDoor AI's development revolves around leveraging Oraichain's robust blockchain framework and AI integration to create a transformative interface. Its goal is to facilitate a smooth and guided transition for Web2 users, introducing them to the complexities of the Web3 paradigm with confidence and ease.
+OpenDoor AI's development revolves around leveraging Oraichain's robust blockchain framework and AI integration to create a transformative interface. Its goal is to facilitate a smooth and guided transition for Web2 users, introducing them to the complexities of the Web3 paradigm with confidence and ease.
 
 
 
