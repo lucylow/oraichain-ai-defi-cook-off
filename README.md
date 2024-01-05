@@ -1,4 +1,4 @@
-# OpenDoor AI : Web2 to Web3
+# OpenDoor AI: Bridging Web2 to Web3 with Oraichain
 
 #### AI-Powered Home Base for Web2 on Oraichain's App Chain
 
