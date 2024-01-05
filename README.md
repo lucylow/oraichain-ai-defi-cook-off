@@ -10,6 +10,18 @@ Navigating ORAI's Multi-Chain Complexity: ORAI Blockchain's multi-chain environm
 #### Solution:
 Guiding Web2 Users into ORAI's Multi-Chain Realm: OpenDoor A.I. serves as the guiding force, harnessing ORAI's App Chain capabilities to simplify the transition. By using AI-driven guidance, it demystifies ORAI's distinct features like secure data oracles, AI integrations, and cross-chain interactions, aiding Web2 users in grasping and utilizing these functionalities seamlessly.
 
+Innovation
+- Trustworthy AI Flexibility: OpenDoor AI aims to create a dynamic solution for Trustworthy AI within Oraichain, ensuring compatibility with existing systems while adapting to rapid technological evolution. This entails the development of a flexible architecture that accommodates seamless integration with diverse AI models and evolving Web3 functionalities.
+- Modular Approach for Innovation: Can a modular framework support ongoing innovations, both internally and externally, without compromising the core system's functionality? OpenDoor AI adopts a modular approach to encourage continuous innovation while preserving the stability and reliability of the system's foundational aspects.
+
+Integrity
+- Reliability and Explainability: OpenDoor AI is committed to developing a software-agnostic solution that ensures AI models produce outputs that are reliable, accurate, explainable, and unbiased. The focus is on establishing stringent protocols that verify and validate AI-generated data to maintain high integrity within Oraichain's ecosystem.
+- Mitigating Integrity Risks: Addressing potential risks, OpenDoor AI actively mitigates the risk of AI compromising the integrity of on-chain actions. It evaluates and implements robust security measures, understanding the vulnerabilities introduced by off-chain software dependencies to protect against new attack vectors.
+
+Regulation
+- Risk Management Framework: The project aims to craft a comprehensive risk management framework aligned with emerging international standards. This framework plays a pivotal role in shaping compliance agendas, ensuring adherence to regulatory requirements while fostering innovation within Oraichain's Web3 environment.
+- Operationalizing Compliance: OpenDoor AI endeavors to operationalize, productize, and democratize the risk management framework. By doing so, it aims to ensure that compliance measures are not only met but also accessible to a broad spectrum of stakeholders. This democratization mitigates the exclusive control of innovation by government regulators, fostering a collaborative and compliant ecosystem.
+
 #### Risks:
 1. User Adoption and Engagement: There's a risk that despite the AI-driven guidance, user adoption might not meet expectations. If users find the transition process too challenging or if the AI interface doesn't resonate with their needs, adoption rates might be lower than anticipated.
 
